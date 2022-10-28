@@ -6,7 +6,6 @@
 - 📫 How to reach me - email me at kayjanw@gmail.com
 - 👩‍💻 <img height="20px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img height="20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img height="20px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height="20px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
 <!-- BLOG-POST-LIST:START -->
