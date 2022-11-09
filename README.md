@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hi, I’m @kayjan</h1>
 
 - 👀 I’m interested in AI/ML, UI/UX - anything from front-end to back-end!
-- 🌱 I’m currently learning so many things, but usually regarding big data, coding best practices, data science, security, statistical courses, etc.
+- 🌱 I’m currently learning many things, but usually regarding big data, coding best practices, data science, security, statistical courses, etc.
 - 💞️ I’m looking to collaborate on making an app and pushing it to app store!
 - 📫 How to reach me - email me at kayjanw@gmail.com
 - 👩‍💻 <img height="20px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
